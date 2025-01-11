@@ -9,7 +9,6 @@ The `EcommerceCrawler` is a Python-based tool designed to discover and list all 
 
 - **URL Discovery:** Automatically identifies product URLs using customizable URL patterns.
 - **Scalability:** Uses multi-threading for concurrent crawling of multiple domains.
-- **Dynamic Content Handling:** Extensible to support JavaScript-rendered pages via Selenium.
 - **Efficiency:** Implements URL caching to avoid duplicate crawling.
 - **Edge Case Management:** Handles common challenges like infinite scrolling and dynamic loading.
 - **Configurable Settings:** Allows customization of maximum depth and parallel workers.
