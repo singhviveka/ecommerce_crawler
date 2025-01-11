@@ -66,7 +66,7 @@ class EcommerceCrawler:
 
 if __name__ == "__main__":
     domains = [
-        "https://example1.com",
+        "https://www.amazon.com",
         "https://example2.com",
         "https://example3.com",
     ]
