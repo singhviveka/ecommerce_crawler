@@ -104,18 +104,4 @@ return re.search(r'/product/|/p/|/item/', url, re.IGNORECASE)
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with a detailed description of changes.
-
----
-
-## Contact
-For questions or feedback, contact [Your Email Address or GitHub Username].
 
