@@ -33,13 +33,6 @@ The `EcommerceCrawler` is a Python-based tool designed to discover and list all 
      - `requests`
      - `beautifulsoup4`
      - `concurrent.futures` (standard library in Python 3.2+)
-
-3. (Optional) For dynamic content crawling, install Selenium:
-   ```bash
-   pip install selenium
-   ```
-   - Set up the appropriate WebDriver (e.g., ChromeDriver or GeckoDriver).
-
 ---
 
 ## Usage
