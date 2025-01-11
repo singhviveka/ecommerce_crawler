@@ -20,7 +20,7 @@ The `EcommerceCrawler` is a Python-based tool designed to discover and list all 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ecommerce-crawler.git
+   git clone https://github.com/singhviveka/ecommerce_crawler.git
    cd ecommerce-crawler
    ```
 
